@@ -1,29 +1,79 @@
-# Hi, I'm Criminal 👋
+Hey, I'm Tamoor Choudhury 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on Minecraft Development, Machine Learning, Cloud Computing, etc.]. I love solving problems and building impactful solutions.
+I'm a software developer who enjoys building useful, open-source projects and experimenting with new technologies.
 
-## 🚀 About Me
+My work focuses mainly on Minecraft development, web applications, Discord bots, developer tools, and cloud infrastructure.
 
-- 🔭 I’m currently working on minecraft server. 
-- 🌱 I’m currently learning  python and spigot api. 
-- 👯 I’m looking to collaborate on minecraft server, projects. 
-- 💬 Ask me about programming languages, frameworks, etc.
-- 📫 How to reach me: criminalop330@gmail.com
-- ⚡ Fun fact: I own a minecraft hosting company. 
+I enjoy turning ideas into real projects — from small utilities to complete platforms and services.
 
-## 🛠️ Technologies & Tools
+---
 
-Here are some of the technologies and tools I work with:
+🚀 About Me
 
-- Programming Languages: JavaScript, Python, Java, HTML. 
-- Frameworks & Libraries: React, Node.js.
-- Databases: MongoDB, MySQL. 
-- Tools & Platforms: Git, Docker, AWS, Azure, VS Code. 
+- 🔭 Currently working on Minecraft, web, and open-source projects
+- 🌱 Currently learning Python and the Spigot API
+- 👯 Open to collaborating on Minecraft and open-source projects
+- 💬 Ask me about JavaScript, Python, Java, web development, and Minecraft development
+- 📫 Email: tamoorchoudhury@gmail.com
+- ⚡ Fun fact: I run a Minecraft hosting company
 
+---
 
-## 🔗 Links
+🛠️ Tech Stack
 
+Languages
+
+"JavaScript" · "Python" · "Java" · "HTML" · "CSS"
+
+Frameworks & Libraries
+
+"React" · "Node.js" · "Spigot API"
+
+Databases
+
+"MongoDB" · "MySQL"
+
+Tools & Platforms
+
+"Git" · "Docker" · "AWS" · "Azure" · "VS Code"
+
+---
+
+🔨 What I Build
+
+- 🎮 Minecraft Projects — Servers, plugins, and server utilities
+- 🤖 Discord Bots — Bots, moderation systems, and community tools
+- 🌐 Web Applications — Modern websites, dashboards, and platforms
+- 🧰 Developer Tools — Utilities designed to make development easier
+- ☁️ Cloud Projects — Hosting, APIs, infrastructure, and backend systems
+- 🔓 Open Source — Projects built for developers and communities
+
+---
+
+🌐 Projects
+
+⚡ OpenUtility
+
+An open-source ecosystem focused on fast, free, privacy-first tools.
+
+«Simple tools. Better web.»
+
+⛏️ MCTools
+
+A collection of useful Minecraft server utilities designed for server owners and developers.
+
+---
+
+📫 Connect With Me
+
+- 📧 Email: tamoorchoudhury@gmail.com
+- 💬 Discord: "@fbi.uk"
 - 🌐 Website: http://eclipsehost.xyz/
-- 🌀 Discord: @.favd0st
 
-Thanks for visiting my profile, and I hope we can collaborate soon! 😊
+---
+
+<div align="center">Thanks for visiting my profile! 👋
+
+Build • Learn • Experiment • Share
+
+</div>
