@@ -1,79 +1,75 @@
-Hey, I'm Tamoor Choudhury 👋
+# Hi, I'm Tamoor Choudhury 👋
 
-I'm a software developer who enjoys building useful, open-source projects and experimenting with new technologies.
+<div align="center">
 
-My work focuses mainly on Minecraft development, web applications, Discord bots, developer tools, and cloud infrastructure.
+**Software developer • Open-source builder • Minecraft & Discord developer**
 
-I enjoy turning ideas into real projects — from small utilities to complete platforms and services.
+I build practical software, developer tools, web applications, Discord bots, and Minecraft projects.
 
----
-
-🚀 About Me
-
-- 🔭 Currently working on Minecraft, web, and open-source projects
-- 🌱 Currently learning Python and the Spigot API
-- 👯 Open to collaborating on Minecraft and open-source projects
-- 💬 Ask me about JavaScript, Python, Java, web development, and Minecraft development
-- 📫 Email: tamoorchoudhury@gmail.com
-- ⚡ Fun fact: I run a Minecraft hosting company
+</div>
 
 ---
 
-🛠️ Tech Stack
+## 🚀 What I Build
 
-Languages
+- 🧰 **Developer Tools** — browser-based utilities and productivity apps
+- 🌐 **Web Applications** — polished interfaces, dashboards, and platforms
+- 🤖 **Discord Bots** — automation, moderation, utilities, and community systems
+- ⛏️ **Minecraft Projects** — plugins, server tools, scripts, and server resources
+- ☁️ **Cloud & Backend** — APIs, hosting, authentication, and infrastructure
+- 🔓 **Open Source** — projects designed to be useful, forkable, and easy to contribute to
 
-"JavaScript" · "Python" · "Java" · "HTML" · "CSS"
+## 🛠️ Tech Stack
 
-Frameworks & Libraries
+**Languages**  
+JavaScript · TypeScript · Python · Java · HTML · CSS
 
-"React" · "Node.js" · "Spigot API"
+**Frameworks & Platforms**  
+React · Node.js · Vite · Spigot API · Discord APIs
 
-Databases
+**Tools & Infrastructure**  
+Git · Docker · GitHub · Vercel · AWS · Azure · VS Code
 
-"MongoDB" · "MySQL"
+**Databases**  
+MongoDB · MySQL
 
-Tools & Platforms
+## ⭐ Featured Projects
 
-"Git" · "Docker" · "AWS" · "Azure" · "VS Code"
+| Project | Description |
+| --- | --- |
+| 🧰 [DevVault](https://github.com/feloony/devvault) | Privacy-first developer utilities in one interface |
+| 🎨 [Discord Embed Builder](https://github.com/feloony/discord-embed-builder) | Create and export Discord embeds visually |
+| 🌐 [API Playground](https://github.com/feloony/api-playground) | Browser-based REST API client |
+| 🔎 [Regex Studio](https://github.com/feloony/regex-studio) | Interactive regex testing workspace |
+| 📝 [README Studio](https://github.com/feloony/readme-studio) | Build GitHub README files visually |
+| 🧰 [JSON Toolkit](https://github.com/feloony/json-toolkit) | Format, validate, and transform JSON |
+| 🎨 [ColorLab](https://github.com/feloony/colorlab) | Color utilities for developers and designers |
+
+## 🌱 Currently Exploring
+
+- Better developer tooling and local-first applications
+- Minecraft server development
+- Discord automation and bot architecture
+- Modern web interfaces
+- Open-source project design and collaboration
+
+## 🤝 Collaboration
+
+I'm interested in collaborating on useful open-source projects, developer tools, Minecraft projects, and Discord applications.
+
+If you find something useful here, feel free to **star it, fork it, open an issue, or contribute**.
+
+## 📫 Connect
+
+- 📧 **Email:** tamoorchoudhury@gmail.com
+- 💬 **Discord:** `@fbi.uk`
 
 ---
 
-🔨 What I Build
+<div align="center">
 
-- 🎮 Minecraft Projects — Servers, plugins, and server utilities
-- 🤖 Discord Bots — Bots, moderation systems, and community tools
-- 🌐 Web Applications — Modern websites, dashboards, and platforms
-- 🧰 Developer Tools — Utilities designed to make development easier
-- ☁️ Cloud Projects — Hosting, APIs, infrastructure, and backend systems
-- 🔓 Open Source — Projects built for developers and communities
+**Build • Learn • Experiment • Share**
 
----
-
-🌐 Projects
-
-⚡ OpenUtility
-
-An open-source ecosystem focused on fast, free, privacy-first tools.
-
-«Simple tools. Better web.»
-
-⛏️ MCTools
-
-A collection of useful Minecraft server utilities designed for server owners and developers.
-
----
-
-📫 Connect With Me
-
-- 📧 Email: tamoorchoudhury@gmail.com
-- 💬 Discord: "@fbi.uk"
-- 🌐 Website: http://eclipsehost.xyz/
-
----
-
-<div align="center">Thanks for visiting my profile! 👋
-
-Build • Learn • Experiment • Share
+Thanks for visiting! ⭐
 
 </div>
